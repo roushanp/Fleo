@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/roushanp/Fleo/issues"
   },
-  "homepage": "https://github.com/roushanp/Fleo#readme"
+  "homepage": "https://github.com/roushanp/Fleo#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "0.0.1-security",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.7",
+    "yarn": "^1.22.17"
+  }
 }
